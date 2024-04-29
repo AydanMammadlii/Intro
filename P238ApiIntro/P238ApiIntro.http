@@ -1,0 +1,6 @@
+@P238ApiIntro_HostAddress = http://localhost:5296
+
+GET {{P238ApiIntro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

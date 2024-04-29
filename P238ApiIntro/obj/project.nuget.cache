@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pu18WntJvfLO15m0S65+ikVEkbczswG0IqC5vvdK3YRRitTCeKucnpQU80tod3kx/u+L2GaUrnxJB91IopWxvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus ZenBook\\source\\repos\\P238ApiIntro\\P238ApiIntro\\P238ApiIntro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus ZenBook\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Asus ZenBook\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Asus ZenBook\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Asus ZenBook\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Asus ZenBook\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Asus ZenBook\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
